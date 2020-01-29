@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Welcome to your first Codecademy App</p>
         <a
           className="App-link"
           href="https://reactjs.org"
